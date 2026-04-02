@@ -1,0 +1,6 @@
+{
+    "dataset": "HellaSwag",
+    "total_samples": 3000,
+    "correct": 731,
+    "accuracy": "24.37%"
+}

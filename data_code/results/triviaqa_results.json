@@ -1,0 +1,6 @@
+{
+    "dataset": "TriviaQA (verified-web-dev)",
+    "total_samples": 1,
+    "correct": 1,
+    "accuracy": "100.00%%"
+}

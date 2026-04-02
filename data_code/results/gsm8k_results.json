@@ -1,0 +1,6 @@
+{
+    "dataset": "GSM8K",
+    "total_samples": 1319,
+    "correct": 982,
+    "accuracy": "74.45%"
+}
