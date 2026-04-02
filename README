@@ -1,9 +1,0 @@
-# ECE9660 Mixtral Of Experts
-
-## Model Used
-
-### Mixtral 8x7B API
-
-The Mixtral 8x7B API was used because there was a limiting in our own computer hardware for us to run the full Mixtral 8x7B model locally. The API provides a free version of their model, so we can run a more faithfully.
-
-There is one major difference in our replication, which is the hellaswag result as it is significantly lower than the paper, 24.37% vs 81.9%. The reason for the difference could be due to the API having some instruction tuning applied, causing some difference between its response compared to a plain text prompt.

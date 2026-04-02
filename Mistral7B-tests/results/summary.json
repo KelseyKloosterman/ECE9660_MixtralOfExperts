@@ -1,0 +1,27 @@
+{
+  "model": "mlx-community/Mistral-7B-v0.1-q",
+  "scores": {
+    "mmlu": 61.6,
+    "hellaswag": 61.2,
+    "arc": 71.67,
+    "gsm8k": 23.5
+  },
+  "paper": {
+    "mmlu": {
+      "mistral_7b": 62.5,
+      "mixtral_8x7b": 70.6
+    },
+    "hellaswag": {
+      "mistral_7b": 81.0,
+      "mixtral_8x7b": 84.4
+    },
+    "arc": {
+      "mistral_7b": 54.9,
+      "mixtral_8x7b": 59.7
+    },
+    "gsm8k": {
+      "mistral_7b": 50.0,
+      "mixtral_8x7b": 74.4
+    }
+  }
+}
