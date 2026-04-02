@@ -1,6 +1,6 @@
 # ECE9660 Mixtral Of Experts
 
-## Model Used
+## Models Used
 
 ### Mixtral 8x7B API
 
