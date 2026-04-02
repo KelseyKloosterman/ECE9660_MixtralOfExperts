@@ -1,6 +1,6 @@
 {
     "dataset": "TriviaQA (verified-web-dev)",
-    "total_samples": 1,
-    "correct": 1,
-    "accuracy": "100.00%%"
+    "total_samples": 407,
+    "correct": 358,
+    "accuracy": "87.96%"
 }
