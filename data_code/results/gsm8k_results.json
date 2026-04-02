@@ -1,6 +1,3 @@
-{
-    "dataset": "GSM8K",
-    "total_samples": 1319,
-    "correct": 982,
-    "accuracy": "74.45%"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bcc43f97dacbe2e7ce784b1ca277b34eab00409b0d88db4a7ebf51b3b1b0276
+size 104
